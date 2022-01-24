@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 50px;
+}
+p{
+    font-family: 'Poppins', sans-serif; 
+}
+section{
+    display: flex;
+}
+.green-color{
+    color: green;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.dreams{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
